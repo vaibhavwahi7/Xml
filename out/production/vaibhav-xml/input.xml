@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<class>
+   <student salary="39300">
+      <firstname>vaibhav</firstname>
+      <lastname>wahi</lastname>
+      <nickname>vaibhav</nickname>
+      <points>85</points>
+   </student>
+   <student salary="49300">
+      <firstname>Vaneet</firstname>
+      <lastname>Gupta</lastname>
+      <nickname>vinni</nickname>
+      <points>95</points>
+   </student>
+   <student salary="59300">
+      <firstname>jasvir</firstname>
+      <lastname>singn</lastname>
+      <nickname>jazz</nickname>
+      <points>90</points>
+   </student>
+</class>
